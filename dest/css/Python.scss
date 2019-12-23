@@ -1,0 +1,25 @@
+table {
+    table-layout: fixed;
+    width: 80vh;
+    height: 80vh;
+    border-collapse: collapse;
+    background-color: greenyellow;
+}
+td {
+    width: 10%;
+    height: 10%;
+}
+
+.snakeSize {
+    width: 45px;
+    height: 45px;
+}
+
+#theApple {
+    width: 45px;
+    height: 45px;
+}
+
+#startButton {
+    width: 300px;
+}
